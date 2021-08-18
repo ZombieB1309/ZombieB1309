@@ -1,4 +1,6 @@
 # helloworld
 Hello World!
 
-!(https://www.freeiconspng.com/thumbs/troll-face-png/troll-face-png-4.png) i troll in minor increments
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+i troll in minor increments
